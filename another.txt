@@ -1,3 +1,9 @@
 another file in hello-world project
 
+<<<<<<< HEAD
 experiment on git fetch
+=======
+changes done by central repo master
+
+momochi
+>>>>>>> 097b7d1ad9054f758cb0d31fd08ca82d2a8025e9
